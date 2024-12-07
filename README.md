@@ -73,3 +73,5 @@ The Dam Water Level Alert System's comprehensive scope ensures that it acts as a
 ![image](https://github.com/user-attachments/assets/a1352c9c-55bf-4a89-9f4d-459c60fce5e7)
 
 *VIDEO OF DEMO
+https://github.com/user-attachments/assets/4d45a301-a84d-447b-8642-fece6342246e
+
