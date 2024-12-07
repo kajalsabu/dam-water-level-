@@ -66,8 +66,12 @@ The Dam Water Level Alert System's comprehensive scope ensures that it acts as a
 **4.SIMULATED CIRCUIT**
 ![image](https://github.com/user-attachments/assets/8748c8ea-4cd5-4b30-aa53-fe9077dea9c4)
 
+
+
 **5.VIDEO OF DEMO**
 https://github.com/user-attachments/assets/4d45a301-a84d-447b-8642-fece6342246
+
+
 
 **6.GERBER FILES**
 
