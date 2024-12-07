@@ -1,8 +1,8 @@
-**PROBLEM STATEMENT**- Develop a prototype that mimics a "Dam water level sensing and alert system
+**1.PROBLEM STATEMENT**- Develop a prototype that mimics a "Dam water level sensing and alert system
 
 
 
-**SCOPE OF THE SOLUTION**
+**2.SCOPE OF THE SOLUTION**
 The **scope of a Dam Water Level Alert System** revolves around ensuring the safety, management, and operational efficiency of dams, reservoirs, and downstream regions. This system leverages advanced sensors, communication technologies, and automated alerts to monitor water levels and promptly inform stakeholders of critical situations. Here’s an outline of its scope:
 
 ---
@@ -60,18 +60,18 @@ The Dam Water Level Alert System's comprehensive scope ensures that it acts as a
 
 
 
-**COMPONENTS**
+**3.COMPONENTS**
 ![image](https://github.com/user-attachments/assets/47dff79d-87b2-43e8-a568-85c4db1a1221)
 
-**SIMULATED CIRCUIT**
+**4.SIMULATED CIRCUIT**
 ![image](https://github.com/user-attachments/assets/8748c8ea-4cd5-4b30-aa53-fe9077dea9c4)
 
+**5.VIDEO OF DEMO**
+https://github.com/user-attachments/assets/4d45a301-a84d-447b-8642-fece6342246
 
-**GERBER FILES**
+**6.GERBER FILES**
 
 ![Screenshot 2024-12-07 222606](https://github.com/user-attachments/assets/14a8bde8-dba9-4db3-a3b4-640258fb8b99)
 ![image](https://github.com/user-attachments/assets/a1352c9c-55bf-4a89-9f4d-459c60fce5e7)
 
-**VIDEO OF DEMO**
-https://github.com/user-attachments/assets/4d45a301-a84d-447b-8642-fece6342246e
 
