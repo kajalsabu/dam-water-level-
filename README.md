@@ -1,4 +1,7 @@
 *PROBLEM STATEMENT- Develop a prototype that mimics a "Dam water level sensing and alert system
+
+
+
 *SCOPE OF THE SOLUTION
 *COMPONENTS
 ![image](https://github.com/user-attachments/assets/47dff79d-87b2-43e8-a568-85c4db1a1221)
