@@ -3,6 +3,8 @@ PROBLEM STATEMENT- Develop a prototype that mimics a "Dam water level sensing an
 COMPONENTS
 ![image](https://github.com/user-attachments/assets/47dff79d-87b2-43e8-a568-85c4db1a1221)
 
+SIMULATED CIRCUIT
+![image](https://github.com/user-attachments/assets/8748c8ea-4cd5-4b30-aa53-fe9077dea9c4)
 GERBER FILES
 
 
