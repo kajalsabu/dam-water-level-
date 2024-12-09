@@ -63,6 +63,9 @@ The Dam Water Level Alert System's comprehensive scope ensures that it acts as a
 **3.COMPONENTS**
 ![image](https://github.com/user-attachments/assets/47dff79d-87b2-43e8-a568-85c4db1a1221)
 
+SOFTWARE - TINKERCAD 
+IDE- ARDUINO IDE
+
 **4.SIMULATED CIRCUIT**
 ![image](https://github.com/user-attachments/assets/8748c8ea-4cd5-4b30-aa53-fe9077dea9c4)
 
